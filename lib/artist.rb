@@ -38,6 +38,7 @@ class Artist
 
 module Paramable
 end
+
  #def to_param
   # name.downcase.gsub(' ', '-')
 # end
